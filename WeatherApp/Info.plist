@@ -56,5 +56,18 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>TypoSlab Irregular Demo.otf</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<true/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Pour obtenir les prévisions météo en temps réel, sélectionnez &quot;Lorsque l&apos;app est active&quot; ou &quot;Toujours&quot;. L&apos;application n&apos;utilise pas vos données cellulaires lorsqu&apos;elle n&apos;est pas active.</string>
 </dict>
 </plist>
