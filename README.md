@@ -4,5 +4,5 @@ iOS application to watch the weather.
 
 # Images
 
-![Logo](./Images/Logo.png)
+<img src="./Images/Logo.png" alt="Logo" width="50" />
 ![Application](./Images/iphone.png)
